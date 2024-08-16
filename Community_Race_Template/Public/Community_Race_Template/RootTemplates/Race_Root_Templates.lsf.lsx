@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="7f52aa3a-40cf-4f75-b190-e773726a8939" />
+					<attribute id="Name" type="LSString" value="Race_Female_Player" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e87dd6f0-22f4-4cd5-914f-adddd2595941" />
+					<attribute id="Icon" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="c6e16e66-2313-4a49-b0e7-1e38e7f25987" />
+					<attribute id="Race" type="guid" value="3328d981-bf97-4e50-8961-fef8cd80c67e" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="00000000-0000-0000-0000-000000000000" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="5dd3feb0-89e5-44e9-9467-5d362b556763" />
+					<attribute id="Name" type="LSString" value="Race_Male_Player" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+					<attribute id="Icon" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="48c09f41-f9db-4ad6-8aec-4db6482294fa" />
+					<attribute id="Race" type="guid" value="3328d981-bf97-4e50-8961-fef8cd80c67e" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="00000000-0000-0000-0000-000000000000" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
