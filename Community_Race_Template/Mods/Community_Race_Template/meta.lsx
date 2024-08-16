@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
   <version major="4" minor="0" revision="0" build="49" />
-  <region id="Config"> <!-- This is the file that defines information that appears in the BG3 Mod Manager. -->
+  <region id="Config">
+    <!-- This is the file that defines information that appears in the BG3 Mod Manager. -->
     <node id="root">
       <children>
         <node id="Dependencies" />
