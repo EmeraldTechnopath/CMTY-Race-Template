@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
   <version major="4" minor="0" revision="0" build="49" />
-  <region id="Config">
+  <region id="Config"> <!-- This is the file that defines information that appears in the BG3 Mod Manager. -->
     <node id="root">
       <children>
         <node id="Dependencies" />
@@ -9,7 +9,7 @@
           <attribute id="Author" type="LSString" value="Community" />
           <!-- Author of the mod in BG3MM -->
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
-          <attribute id="Description" type="LSString" value="An extendable template for a new BG3 race." />
+          <attribute id="Description" type="LSString" value="An extensible template for a new BG3 race." />
           <!-- Description of the mod in BG3MM -->
           <attribute id="Folder" type="LSString" value="Community_Race_Template" />
           <!-- Name of the folder containing your meta.lsx -->
@@ -27,6 +27,7 @@
           <attribute id="UUID" type="FixedString" value="910e5d23-c21a-4835-8904-06b36364fdae" />
           <!-- Regenerate this UUID before releasing the mod! -->
           <attribute id="Version64" type="int64" value="36028797018963968" />
+          <!-- This version is 1.0.0.0. You can obtain new version numbers from the Multitool Version Calculator. -->
           <children>
             <node id="PublishVersion">
               <attribute id="Version64" type="int64" value="36028797018963968" />
