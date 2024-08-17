@@ -10,7 +10,6 @@
 					<attribute id="ID" type="FixedString" value="c6e16e66-2313-4a49-b0e7-1e38e7f25987" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID-->
 					<attribute id="Name" type="LSString" value="Race_Female_Player" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" /> <!--Indicates whether equipment will show on this player entry-->
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758165" /> <!-- (? What does this do) -->
 					<children>
 						<node id="MaterialOverrides">
 							<children>
@@ -175,7 +174,6 @@
 					<attribute id="ID" type="FixedString" value="48c09f41-f9db-4ad6-8aec-4db6482294fa" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID-->
 					<attribute id="Name" type="LSString" value="Race_Male_Player" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" /> <!--Indicates whether equipment will show on this player entry-->
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" /> <!-- (? What does this do) -->
 					<children>
 						<node id="MaterialOverrides">
 							<children>
